@@ -63,7 +63,7 @@ This project demonstrates the complete analytics workflow:
 ####  Final Interactive Power BI Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/11e2cd2e-c1af-4314-b081-f9089f58a705" width="95">
+  <img src="https://github.com/user-attachments/assets/11e2cd2e-c1af-4314-b081-f9089f58a705" width="95%">
 </p>
 
 ##  How to Run
