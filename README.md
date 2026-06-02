@@ -51,11 +51,9 @@ This project demonstrates the complete analytics workflow:
 - Loyal customers contributed a major share of total revenue.
 
 ## Output
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/505dfd49-1109-4d90-882c-1e0e3de57c8a" />| <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/fa413663-0526-4ec7-9f74-c1bcefce90a2" />
-
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/4898beae-db90-4e14-9bf7-54f1a5edc2f8" />|<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bc21f78a-0f45-4946-b737-84a5d4b75b5e" />
-
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/43f41ea5-b639-47c6-b686-15c4ca21923e" />
+| <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/43f41ea5-b639-47c6-b686-15c4ca21923e" />| <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/505dfd49-1109-4d90-882c-1e0e3de57c8a" /> |
+| <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/fa413663-0526-4ec7-9f74-c1bcefce90a2" /> | <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bc21f78a-0f45-4946-b737-84a5d4b75b5e" /> |
+<img width="1325" height="720" alt="Image" src="https://github.com/user-attachments/assets/11e2cd2e-c1af-4314-b081-f9089f58a705" />
 
 ##  How to Run
 1. Open `shopping_analysis.ipynb` for data preprocessing and EDA.
