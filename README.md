@@ -60,10 +60,10 @@ This project demonstrates the complete analytics workflow:
 |------------------|-------------------|
 | <img src="https://github.com/user-attachments/assets/fa413663-0526-4ec7-9f74-c1bcefce90a2" width="100%"> | <img src="https://github.com/user-attachments/assets/bc21f78a-0f45-4946-b737-84a5d4b75b5e" width="100%"> |
 
-###  Final Interactive Power BI Dashboard
+####  Final Interactive Power BI Dashboard
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/11e2cd2e-c1af-4314-b081-f9089f58a705" width="95%">
+  <img src="https://github.com/user-attachments/assets/11e2cd2e-c1af-4314-b081-f9089f58a705" width="50">
 </p>
 
 ##  How to Run
