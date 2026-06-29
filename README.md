@@ -1,4 +1,4 @@
-#  End-to-End Shopping Behaviour Analysis
+#  Shopping Behaviour Analysis End-to-End Data Analytics Project
 
 An end-to-end Data Analytics project that analyzes customer shopping behavior using **Python, MySQL, and Power BI** to uncover purchasing patterns, customer segments, revenue trends, discount effectiveness, and subscription insights.
 
